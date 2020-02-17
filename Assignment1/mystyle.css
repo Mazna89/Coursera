@@ -198,4 +198,8 @@ background-color:
   .col-sm-12 {
     width: 100%;
   }
+  h2
+  {
+  	top: 0px;
+  }
 }
